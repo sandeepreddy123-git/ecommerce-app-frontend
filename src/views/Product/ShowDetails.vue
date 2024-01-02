@@ -175,6 +175,9 @@ p {
   padding: 0;
   margin: 0;
 }
+input[type="number"] {
+  width: 100px; /* Adjust this value as needed */
+}
 
 /* Wishlist button */
 #wishlist-button {
